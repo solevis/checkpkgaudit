@@ -87,12 +87,12 @@ sample outputs :
 Install
 ------------
 
-Using easy_install (within or not a virtualenv):
+Using easy_install (within or not a virtualenv)::
 
     easy_install checkpkgaudit
 
-Alternatively by using pip (within or not a virtualenv):
-
+Alternatively by using pip (within or not a virtualenv)::
+  
     pip install checkpkgaudit
 
 check_pkgaudit is located at /usr/local/bin/check_pkgaudit
